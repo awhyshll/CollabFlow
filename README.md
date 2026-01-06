@@ -2,7 +2,7 @@
 
 A real-time Kanban-style project management board for remote teams to collaborate on tasks.
 
-![CollabFlow](https://via.placeholder.com/800x400/3b82f6/ffffff?text=CollabFlow)
+<img width="1925" height="1019" alt="image" src="https://github.com/user-attachments/assets/3603744a-ad90-4fc6-a1f7-ac45e9f04e73" />
 
 ## 🚀 Features
 
