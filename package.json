@@ -1,0 +1,28 @@
+{
+  "name": "collabflow",
+  "version": "1.0.0",
+  "description": "Remote Team Collaboration Board - A Kanban-style project management application",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "kanban",
+    "project-management",
+    "collaboration",
+    "real-time",
+    "react",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "firebase": "^12.7.0"
+  }
+}
