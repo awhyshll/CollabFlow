@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDYgFYkHwfH7Zhd-IbpbTKTJq1kXxJisY4",
+  apiKey: "your api key",
   authDomain: "collabflow-91f74.firebaseapp.com",
   projectId: "collabflow-91f74",
   storageBucket: "collabflow-91f74.firebasestorage.app",
